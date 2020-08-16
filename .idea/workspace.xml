@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c501183-9991-4e3c-a5a5-323b7714d889" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fzj9OnthUvMGUGvLCfJneqJNFf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c501183-9991-4e3c-a5a5-323b7714d889" name="Default Changelist" comment="" />
+      <created>1597227662655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597227662655</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="189" key="FileChooserDialogImpl" timestamp="1597579909532">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="189" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1597579909532" />
+    <state x="638" y="348" width="347" height="163" key="Github.CreateGistDialog" timestamp="1597577000502">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="638" y="348" width="347" height="163" key="Github.CreateGistDialog/0.0.1600.860@0.0.1600.860" timestamp="1597577000502" />
+    <state x="672" y="329" width="261" height="201" key="Github.ShareDialog" timestamp="1597579957604">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="672" y="329" width="261" height="201" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1597579957604" />
+    <state x="380" y="169" key="IDE.errors.dialog" timestamp="1597579818113">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="169" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1597579818113" />
+    <state x="303" y="76" key="SettingsEditor" timestamp="1597576967105">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="303" y="76" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1597576967105" />
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1597565658782">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="508" y="259" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1597565658782" />
+  </component>
+</project>
